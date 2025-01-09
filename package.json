@@ -15,10 +15,12 @@
     "cors": "^2.8.5",
     "express": "^4.21.2",
     "graphql": "^16.10.0",
+    "jsonwebtoken": "^9.0.2",
     "tsc-watch": "^6.2.1"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
+    "@types/jsonwebtoken": "^9.0.7",
     "@types/node": "^22.10.5",
     "prisma": "6.2.1",
     "tsx": "^4.19.2",
